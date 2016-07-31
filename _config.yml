@@ -1,4 +1,3 @@
-layout_spectrum: 0.3133394590113312
 typography_spectrum: 0.7155164133291692
 color:
   brandStrength: 0.824126900639385
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.3133394590113312
 name: BoonSoh
 title: BoonSoh
+description: A light-hearted way of helping you get through the day
