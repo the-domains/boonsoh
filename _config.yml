@@ -6,9 +6,10 @@ color:
   saturation: 0.8833951475098729
   rhythmicContrast: 0.821042260620743
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: BoonSoh
+title: BoonSoh
