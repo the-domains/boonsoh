@@ -20,5 +20,8 @@ navigation:
   - name: why boonsoh
     id: 0bb33a15-edb0-4aca-944f-f658a6acb4b8
     type: content
+  - name: twitter
+    url: 'http://www.twitter.com/jonmaldia'
+    type: external
 title: BoonSoh
 description: A light-hearted way of helping you get through the day
