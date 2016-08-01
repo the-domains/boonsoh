@@ -15,8 +15,8 @@ analytics:
   google: UA-81716143-1
 author:
   name: Jon Maldia
-  email: jon@boonsoh.com
-  url: 'http://www.boonsoh.com'
+  email: jon@maldia.net
+  url: ''
 name: BoonSoh
 navigation:
   - name: why boonsoh
@@ -28,5 +28,6 @@ navigation:
   - name: linkedin
     url: 'http://www.linkedin.com/in/jonmaldia'
     type: external
+favicon: null
 title: BoonSoh
 description: A light-hearted way of helping you get through the day
