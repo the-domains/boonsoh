@@ -11,6 +11,8 @@ color:
     - '#2667FF'
     - '#3B28CC'
 layout_spectrum: 0.3133394590113312
+analytics:
+  google: UA-81716143-1
 author:
   name: Jon Maldia
   email: jon@boonsoh.com
