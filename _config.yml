@@ -16,5 +16,9 @@ author:
   email: jon@boonsoh.com
   url: 'http://www.boonsoh.com'
 name: BoonSoh
+navigation:
+  - name: why boonsoh
+    id: 0bb33a15-edb0-4aca-944f-f658a6acb4b8
+    type: content
 title: BoonSoh
 description: A light-hearted way of helping you get through the day
