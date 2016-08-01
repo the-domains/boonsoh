@@ -23,5 +23,8 @@ navigation:
   - name: twitter
     url: 'http://www.twitter.com/jonmaldia'
     type: external
+  - name: linkedin
+    url: 'http://www.linkedin.com/in/jonmaldia'
+    type: external
 title: BoonSoh
 description: A light-hearted way of helping you get through the day
