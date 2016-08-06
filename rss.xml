@@ -4,8 +4,15 @@
         <description><![CDATA[BoonSoh]]></description>
         <link>http://boonsoh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 20:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 10:16:54 GMT</lastBuildDate>
         <atom:link href="http://boonsoh.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Love of a Long Walk : zen habits]]></title>
+            <description><![CDATA[<article><h1>The Love of a Long Walk : zen habits</h1><p>Yesterday afternoon, I set off on a long walk. I'd been having an off day, tired from lots of activities and unmotivated and my mind fixated on one thing ... so I decided to walk. I put some snacks, a book, and some water in a backpack, put on some running shorts, a long-sleeve running shirt, some good shoes and a hat.</p></article>]]></description>
+            <link>http://zenhabits.net/walk/</link>
+            <guid isPermaLink="false">f44a2ad2-1549-4a06-8c68-eefafd63e473</guid>
+            <pubDate>Sat, 06 Aug 2016 10:16:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&quot;How to Get Over Your Fear of Failure&quot; via Business Insider" src="https://scontent.xx.fbcdn.net/v/t15.0-10/p128x128/13896210_10154441536229060_881150134_n.jpg?oh=8558733944385d5c9213e0b46f5d0ea9&oe=581BF938">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How to Book Better Airbnbs for Less Money</h1><p>How to successfully book your first-choice listings and get them for cheaper.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43ad1631f9488b5c41ba63eb0d4ff8c377b6b850.jpg"></article>]]></description>
             <link>https://www.thrillist.com/tech/nation/airbnb-hacks-how-to-find-better-cheaper-listings/travel</link>
             <guid isPermaLink="false">a832b734-818b-4761-ad31-63922fd489d7</guid>
-            <pubDate>Sun, 31 Jul 2016 16:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Gadgets That'll Actually Get You Excited to Work Out]]></title>
-            <description><![CDATA[<article><h1>7 Gadgets That'll Actually Get You Excited to Work Out</h1><p>Gadgets and devices that make working out more enjoyable, including games, music players, and muscle trackers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed18c54aed57db2debfacd2f488512d1a298fb17.jpg"></article>]]></description>
-            <link>https://www.thrillist.com/tech/nation/7-gadgets-and-apps-for-working-out-push-band-goji-play-bodyspace/tech</link>
-            <guid isPermaLink="false">47483c36-ef5f-4b09-9f63-9e875cc73b6d</guid>
             <pubDate>Sun, 31 Jul 2016 16:50:57 GMT</pubDate>
         </item>
     </channel>
